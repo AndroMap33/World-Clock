@@ -9,14 +9,14 @@ Applications to make this world a better place to live and ofcourse , to get ric
 
 ####ABOUT World-clock
 
-This is the first project of team AndroMap designated to test our skills in Android . As name suggests , it shows time of list of 
-countries . Basic idea for the App was to be used by Co-orporate people who have need to know time of different countries relative to their
+This is the first project of team AndroMap33 designated to test our skills in Android . As name suggests , it shows time of list of 
+countries . Basic idea for the App was to be used by Corporate people who have need to know time of different countries relative to their
 own country.
 
 ####HOW TO USE
--App gives a view of a clock that gives time of default country which can be changed from settings.
--App provides list of countries , clicking on which sets the time of clock to that country.
+App gives a view of a clock that gives time of default country which can be changed from settings.
+App provides a list of countries , clicking on which sets the time of clock according to that country.
 
 ####SOFTWARE USED
--Android Studios
+Android Studio
 
