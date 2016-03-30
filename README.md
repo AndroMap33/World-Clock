@@ -4,13 +4,13 @@ Android application showing time of all the countries along with many other feat
 
 ####ABOUT US
 
-We are group of passioate programmers who have just steped into the world of android developement. We aspire to create Android
+We are group of passionate programmers who have just steped into the world of android developement. We aspire to create Android
 Applications to make this world a better place to live and ofcourse , to get rich :D
 
 ####ABOUT World-clock
 
 This is the first project of team AndroMap designated to test our skills in Android . As name suggests , it shows time of list of 
-countries . Basic idea for the App was to be used by Co-orporate people who have need to know time of different countire relative to
+countries . Basic idea for the App was to be used by Co-orporate people who have need to know time of different countries relative to their
 own country.
 
 ####HOW TO USE
