@@ -17,6 +17,6 @@ own country.
 -App gives a view of a clock that gives time of default country which can be changed from settings.
 -App provides list of countries , clicking on which sets the time of clock to that country.
 
-####SOFTWARE UDED
+####SOFTWARE USED
 -Android Studios
 
