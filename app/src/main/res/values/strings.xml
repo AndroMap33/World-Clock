@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">World-Clock</string>
     <string name="action_settings">Settings</string>
+    <string-array name="country_name">
+        <item>India</item>
+        <item>USA</item>
+        <item>UK</item>
+    </string-array>
 </resources>
