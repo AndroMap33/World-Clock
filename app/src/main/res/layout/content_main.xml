@@ -24,9 +24,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="30sp"
-        android:text="India"
         android:id="@+id/country_name"
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="65dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />
 
@@ -34,9 +33,16 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/analogClock"
-        android:layout_marginTop="87dp"
+        android:layout_marginTop="50dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />
+
+    <DigitalClock
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/digitalClock"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal" />
 
     <TextView
         android:layout_marginTop="30dp"
@@ -47,21 +53,22 @@
 
 
     <Spinner
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="200dp"
+        android:layout_height="300dp"
         android:id="@+id/spinner"
-        android:layout_below="@+id/analogClock"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="111dp" />
+        android:layout_marginTop="20dp" />
 
+    <!--
     <Button
         android:id="@+id/show_button"
         android:text="SHOW"
+        android:onClick="show"
         android:layout_marginTop="10dp"
         android:layout_alignParentBottom="true"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
-
+    -->
 
 </LinearLayout>
 </ScrollView>

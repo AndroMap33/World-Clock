@@ -4,6 +4,12 @@
         <item>India</item>
         <item>USA</item>
         <item>UK</item>
+        <item>India</item>
+        <item>USA</item>
+        <item>UK</item>
+        <item>India</item>
+        <item>USA</item>
+        <item>UK</item>
     </string-array>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
